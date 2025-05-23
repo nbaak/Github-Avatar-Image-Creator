@@ -36,11 +36,3 @@ avatar_image = draw_avatar("example_user")
 avatar_image.show()  # Display the generated avatar
 avatar_image.save("example_user_avatar.png")  # Save the avatar as a PNG file
 ```
-
-## License
-
-This project is licensed under the MIT License.
-
---- 
-
-This version removes the repository-cloning instruction while keeping the setup and usage details clear.
